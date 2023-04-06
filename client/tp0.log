@@ -1,0 +1,76 @@
+[INFO] 16:06:52:715 process_name/(5410:5410): soy un log
+[INFO] 16:15:58:487 process_name/(5518:5518): soy un log
+[INFO] 18:08:50:771 process_name/(6122:6122): soy un log
+[INFO] 18:09:32:610 process_name/(6172:6172): soy un log
+[INFO] 18:11:00:728 process_name/(6199:6199): soy un log
+[INFO] 18:11:00:734 process_name/(6199:6199): 4444
+[INFO] 18:38:13:146 process_name/(6395:6395): soy un log
+[INFO] 18:38:13:153 process_name/(6395:6395): 4444
+[INFO] 18:38:18:984 process_name/(6395:6395): hola
+[INFO] 18:38:31:923 process_name/(6395:6395): estas seguro de eso
+[INFO] 18:38:39:518 process_name/(6395:6395): mostrame eso
+[INFO] 20:02:52:859 process_name/(7359:7359): soy un log
+[INFO] 20:02:52:863 process_name/(7359:7359): 127.0.0.1
+[INFO] 20:02:52:865 process_name/(7359:7359): 4444
+[INFO] 20:03:08:291 process_name/(7359:7359): primer proceso
+[INFO] 20:12:10:529 process_name/(7512:7512): soy un log
+[INFO] 20:12:10:531 process_name/(7512:7512): 127.0.0.1
+[INFO] 20:12:10:531 process_name/(7512:7512): 4444
+[INFO] 20:12:36:571 process_name/(7542:7542): soy un log
+[INFO] 20:12:36:572 process_name/(7542:7542): 127.0.0.1
+[INFO] 20:12:36:574 process_name/(7542:7542): 4444
+[INFO] 20:13:07:620 process_name/(7512:7512): hola
+[INFO] 20:13:38:761 process_name/(7512:7512): eso
+[INFO] 20:15:26:586 process_name/(7571:7571): soy un log
+[INFO] 20:15:26:590 process_name/(7571:7571): 127.0.0.1
+[INFO] 20:15:26:592 process_name/(7571:7571): 4444
+[INFO] 20:15:37:909 process_name/(7581:7581): soy un log
+[INFO] 20:15:37:911 process_name/(7581:7581): 127.0.0.1
+[INFO] 20:15:37:918 process_name/(7581:7581): 4444
+[INFO] 20:15:40:736 process_name/(7591:7591): soy un log
+[INFO] 20:15:40:739 process_name/(7591:7591): 127.0.0.1
+[INFO] 20:15:40:741 process_name/(7591:7591): 4444
+[INFO] 20:22:12:633 process_name/(7750:7750): soy un log
+[INFO] 20:22:12:636 process_name/(7750:7750): 127.0.0.1
+[INFO] 20:22:12:637 process_name/(7750:7750): 4444
+[INFO] 20:22:21:755 process_name/(7750:7750): hola
+[INFO] 20:22:38:471 process_name/(7750:7750): MENSAJE
+[INFO] 20:28:58:021 process_name/(7919:7919): soy un log
+[INFO] 20:28:58:032 process_name/(7919:7919): 127.0.0.1
+[INFO] 20:28:58:033 process_name/(7919:7919): 4444
+[INFO] 20:29:05:093 process_name/(7919:7919): hola
+[INFO] 20:37:03:732 process_name/(8049:8049): soy un log
+[INFO] 20:37:03:734 process_name/(8049:8049): 127.0.0.1
+[INFO] 20:37:03:734 process_name/(8049:8049): 4444
+[INFO] 20:37:50:868 process_name/(8075:8075): soy un log
+[INFO] 20:37:50:870 process_name/(8075:8075): 127.0.0.1
+[INFO] 20:37:50:879 process_name/(8075:8075): 4444
+[INFO] 20:38:28:535 process_name/(8110:8110): soy un log
+[INFO] 20:38:28:546 process_name/(8110:8110): 127.0.0.1
+[INFO] 20:38:28:546 process_name/(8110:8110): 4444
+[INFO] 20:39:08:833 process_name/(8129:8129): soy un log
+[INFO] 20:39:08:836 process_name/(8129:8129): 127.0.0.1
+[INFO] 20:39:08:836 process_name/(8129:8129): 4444
+[INFO] 20:39:56:665 process_name/(8189:8189): soy un log
+[INFO] 20:39:56:730 process_name/(8189:8189): 127.0.0.1
+[INFO] 20:39:56:730 process_name/(8189:8189): 4444
+[INFO] 20:40:19:271 process_name/(8204:8204): soy un log
+[INFO] 20:40:19:278 process_name/(8204:8204): 127.0.0.1
+[INFO] 20:40:19:279 process_name/(8204:8204): 4444
+[INFO] 20:41:17:422 process_name/(8204:8204): log
+[INFO] 21:05:55:099 process_name/(8448:8448): soy un log
+[INFO] 21:05:55:101 process_name/(8448:8448): 127.0.0.1
+[INFO] 21:05:55:101 process_name/(8448:8448): 4444
+[INFO] 21:06:01:833 process_name/(8448:8448): hola
+[INFO] 23:05:41:224 process_name/(8847:8847): soy un log
+[INFO] 23:05:41:227 process_name/(8847:8847): 127.0.0.1
+[INFO] 23:05:41:227 process_name/(8847:8847): 4444
+[INFO] 23:05:50:589 process_name/(8847:8847): hola
+[INFO] 23:08:06:622 process_name/(8899:8899): soy un log
+[INFO] 23:08:06:623 process_name/(8899:8899): 127.0.0.1
+[INFO] 23:08:06:623 process_name/(8899:8899): 4444
+[INFO] 23:08:14:643 process_name/(8899:8899): hola
+[INFO] 23:12:01:670 process_name/(9063:9063): soy un log
+[INFO] 23:12:01:671 process_name/(9063:9063): 127.0.0.1
+[INFO] 23:12:01:671 process_name/(9063:9063): 4444
+[INFO] 23:12:07:175 process_name/(9063:9063): hola

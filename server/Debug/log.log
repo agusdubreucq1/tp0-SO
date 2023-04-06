@@ -1,0 +1,9 @@
+[INFO] 18:08:25:069 Servidor/(2382:2382): Servidor listo para recibir al cliente
+[INFO] 18:14:18:196 Servidor/(2382:2382): Se conecto un cliente!
+[INFO] 18:14:18:196 Servidor/(2382:2382): Me llego el mensaje valor
+[INFO] 18:14:39:097 Servidor/(2382:2382): Me llegaron los siguientes valores:
+
+[INFO] 18:14:39:097 Servidor/(2382:2382): primero
+[INFO] 18:14:39:097 Servidor/(2382:2382): segundo
+[INFO] 18:14:39:098 Servidor/(2382:2382): tercero
+[ERROR] 18:14:39:098 Servidor/(2382:2382): el cliente se desconecto. Terminando servidor

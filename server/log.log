@@ -1,0 +1,40 @@
+[INFO] 20:21:29:134 Servidor/(7699:7699): Servidor listo para recibir al cliente
+[INFO] 20:21:51:050 Servidor/(7723:7723): Servidor listo para recibir al cliente
+[INFO] 20:21:58:614 Servidor/(7734:7734): Servidor listo para recibir al cliente
+[INFO] 20:29:06:150 Servidor/(7734:7734): Se conecto un cliente!
+[INFO] 20:29:06:151 Servidor/(7734:7734): Me llego el mensaje valor
+[ERROR] 20:29:23:729 Servidor/(7734:7734): el cliente se desconecto. Terminando servidor
+[INFO] 20:41:01:782 Servidor/(8225:8225): Servidor listo para recibir al cliente
+[INFO] 20:41:20:998 Servidor/(8225:8225): Se conecto un cliente!
+[INFO] 20:41:20:998 Servidor/(8225:8225): Me llego el mensaje valor
+[ERROR] 20:41:31:904 Servidor/(8225:8225): el cliente se desconecto. Terminando servidor
+[INFO] 21:05:42:292 Servidor/(8412:8412): Servidor listo para recibir al cliente
+[INFO] 21:06:07:744 Servidor/(8412:8412): Se conecto un cliente!
+[INFO] 21:06:07:744 Servidor/(8412:8412): Me llego el mensaje valor
+[ERROR] 21:06:32:662 Servidor/(8412:8412): el cliente se desconecto. Terminando servidor
+[INFO] 23:05:28:098 Servidor/(8812:8812): Servidor listo para recibir al cliente
+[INFO] 23:05:53:810 Servidor/(8812:8812): Se conecto un cliente!
+[INFO] 23:05:53:811 Servidor/(8812:8812): Me llego el mensaje valor
+[ERROR] 23:06:06:145 Servidor/(8812:8812): el cliente se desconecto. Terminando servidor
+[INFO] 23:07:34:736 Servidor/(8928:8928): Servidor listo para recibir al cliente
+[INFO] 23:08:41:268 Servidor/(8928:8928): Se conecto un cliente!
+[INFO] 23:08:41:268 Servidor/(8928:8928): Me llego el mensaje valor
+[ERROR] 23:11:07:188 Servidor/(8928:8928): el cliente se desconecto. Terminando servidor
+[INFO] 23:11:28:062 Servidor/(9004:9004): Servidor listo para recibir al cliente
+[INFO] 23:12:09:574 Servidor/(9004:9004): Se conecto un cliente!
+[INFO] 23:12:09:574 Servidor/(9004:9004): Me llego el mensaje valor
+[INFO] 23:12:28:116 Servidor/(9004:9004): Me llegaron los siguientes valores:
+
+[INFO] 23:12:28:117 Servidor/(9004:9004): hola
+[INFO] 23:12:28:117 Servidor/(9004:9004): como estas?
+[ERROR] 23:12:28:117 Servidor/(9004:9004): el cliente se desconecto. Terminando servidor
+[INFO] 23:56:26:847 Servidor/(2757:2757): Servidor listo para recibir al cliente
+[INFO] 23:58:16:320 Servidor/(2757:2757): Se conecto un cliente!
+[INFO] 23:58:46:214 Servidor/(2757:2757): Me llego el mensaje valor
+[INFO] 00:01:19:005 Servidor/(2757:2757): Me llegaron los siguientes valores:
+
+[INFO] 00:01:33:585 Servidor/(2757:2757): eso
+[INFO] 00:01:33:585 Servidor/(2757:2757): que
+[ERROR] 00:01:33:585 Servidor/(2757:2757): el cliente se desconecto. Terminando servidor
+[INFO] 00:06:00:551 Servidor/(3080:3080): Servidor listo para recibir al cliente
+[INFO] 00:06:25:215 Servidor/(3080:3080): Se conecto un cliente!
